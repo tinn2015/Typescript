@@ -5,6 +5,8 @@
  * @FilePath: /Typescript/readme.md
 -->
 [Ts基础](https://juejin.cn/post/6844904182843965453
+# 类型介绍
+ 
 # 一些区别
 ## 1. interface VS type
 [interface VS type](https://juejin.cn/post/6844903749501059085)
@@ -17,6 +19,10 @@
 ## namespace VS module
 * 不是ts编写的库， 可以用namespace声明
 * 模块除了可以声明类型还可以声明它的依赖，模块会把依赖添加到模块加载器上
+
+## any VS unknown
+* any 会关闭类型检查
+* unknown 属于未知类型，也是一种跟string一样的类型
 
 # module
 * ts模块具有自己的作用域, 模块内只有导出的生命才会在模块外部可见
