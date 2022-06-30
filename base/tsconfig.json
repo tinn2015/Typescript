@@ -10,7 +10,6 @@
     "esModuleInterop": false,
     "noImplicitAny": false, //不允许隐式的any
     "noImplicitThis": false, // 是否允许不明类型的this
-    "noImplicitThis": false, // 严格的检查空值
     "resolveJsonModule": true,
     "allowJs": false, // 是否对js文件进行编译
     "checkJs": false, // 检查js代码是否符合规范
