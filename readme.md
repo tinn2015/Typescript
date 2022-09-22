@@ -77,3 +77,5 @@ declare module "url" {
 ## 范型工具类型
 1.Partial、Required、Readonly、Record 和 ReturnType 
 
+# 参考连接
+* 常见操作，实例分析：https://zhuanlan.zhihu.com/p/452657140

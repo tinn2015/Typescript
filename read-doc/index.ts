@@ -61,7 +61,7 @@ let n: null = null
 
 /**
  * 
- * Never 表示用不存在值得类型， never是任何类型得子类型
+ * Never 表示用不存在值的类型， never是任何类型得子类型
  */
 
 // 返回never的函数必须存在无法达到的终点
