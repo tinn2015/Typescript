@@ -77,5 +77,18 @@ declare module "url" {
 ## 范型工具类型
 1.Partial、Required、Readonly、Record 和 ReturnType 
 
+# 通过ts-node在node环境做测试
+```
+npm i ts-node -g
+
+ts-node index.ts
+```
+
+## 测试方法
+通过test 目录的tsconfig.json 
+```
+ts-node 指定目录文件
+```
+
 # 参考连接
 * 常见操作，实例分析：https://zhuanlan.zhihu.com/p/452657140
